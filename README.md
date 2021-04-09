@@ -1,4 +1,4 @@
-# Minimal example of historical data parsing
+# Minimal example of historical data parsing using [layoutparser](https://layout-parser.github.io/)
 
 ## Input 
 
