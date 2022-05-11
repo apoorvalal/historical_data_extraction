@@ -1,5 +1,17 @@
 # Minimal example of historical data parsing using [layoutparser](https://layout-parser.github.io/)
 
+## Setup
+
++ Set up google cloud vision API
+  + Create a google service account service by following [this](https://cloud.google.com/vision/docs/detect-labels-image-client-libraries#client-libraries-install-python) guide
+  + Download a key (should end in `.json`) to a safe location
++ Or set up `tesseract`
+  + Follow instructions listed [here](https://github.com/madmaze/pytesseract#installation)
+
++ create a clean conda/venv environment
++ Install layoutparser using the instructions on [their github](https://github.com/Layout-Parser/layout-parser#installation) ; their website seems out of date
+
+
 ## Input 
 
 Random historical table picked from 1951 UP census
