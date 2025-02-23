@@ -1,5 +1,9 @@
 # Minimal example of historical data parsing using [layoutparser](https://layout-parser.github.io/)
 
+[Update Feb 2025]: Ignore everything below, just use gemini. 
+
+---
+
 ## Setup
 
 + Set up google cloud vision API
